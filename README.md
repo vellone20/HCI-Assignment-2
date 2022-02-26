@@ -17,7 +17,11 @@ Top five new desirable functionlities
 - Map for local business if users is new to oakville
 
 Figma Link
-https://www.figma.com/file/37PY0XGg3UX32voFlPz5mR/Assignment-2?node-id=0%3A1
+https://www.figma.com/proto/37PY0XGg3UX32voFlPz5mR/Assignment-2?node-id=102%3A135&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A135
 
 Video Link
 https://youtu.be/kAjH-PN-N-M
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/71281585/155849002-726e3141-c1c5-4543-b0a7-c573ad79c64c.png)
+![Screenshot_2](https://user-images.githubusercontent.com/71281585/155849004-5235039a-682c-4f07-962b-8b9d25a3192d.png)
