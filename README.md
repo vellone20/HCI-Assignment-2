@@ -7,7 +7,7 @@ This is the application I created for the assignment. It is an all in one applic
 Top five new desirable functionlities
 
 - Built in school campus map
-- School vents 
+- School events 
 - Weather updates
 - Emergency contacts 
 - Support system for users to give feed back or in need of help
